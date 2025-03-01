@@ -2,7 +2,7 @@ package gipc
 
 import "github.com/sirupsen/logrus"
 
-const Version string = "0.0.1"
+const Version string = "0.0.2"
 
 const (
 	VERSION                = 2       // ipc package VERSION
