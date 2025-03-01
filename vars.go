@@ -2,6 +2,8 @@ package gipc
 
 import "github.com/sirupsen/logrus"
 
+const Version string = "0.0.1"
+
 const (
 	VERSION                = 2       // ipc package VERSION
 	MAX_MSG_SIZE           = 3145728 // 3Mb  - Maximum bytes allowed for each message

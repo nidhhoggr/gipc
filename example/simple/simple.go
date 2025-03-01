@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/joe-at-startupmedia/gipc"
+	"github.com/nidhhoggr/gipc"
 )
 
 const CONN_NAME = "example_simple"

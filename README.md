@@ -1,8 +1,8 @@
 # gipc
 
-[![Testing](https://github.com/joe-at-startupmedia/gipc/actions/workflows/testing.yml/badge.svg)](https://github.com/joe-at-startupmedia/gipc/actions/workflows/testing.yml)
-[![codecov](https://codecov.io/gh/joe-at-startupmedia/gipc/graph/badge.svg?token=0G9FP0QN5S)](https://codecov.io/gh/joe-at-startupmedia/gipc)
-[![Go Report Card](https://goreportcard.com/badge/github.com/joe-at-startupmedia/gipc)](https://goreportcard.com/report/github.com/joe-at-startupmedia/gipc)
+[![Testing](https://github.com/nidhhoggr/gipc/actions/workflows/testing.yml/badge.svg)](https://github.com/nidhhoggr/gipc/actions/workflows/testing.yml)
+[![codecov](https://codecov.io/gh/nidhhoggr/gipc/graph/badge.svg?token=0G9FP0QN5S)](https://codecov.io/gh/nidhhoggr/gipc)
+[![Go Report Card](https://goreportcard.com/badge/github.com/nidhhoggr/gipc)](https://goreportcard.com/report/github.com/nidhhoggr/gipc)
 
 ### Overview
  
